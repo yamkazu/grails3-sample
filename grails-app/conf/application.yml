@@ -2,7 +2,7 @@
 grails:
   profile: web
   codegen:
-    defaultPackage: grails3sample
+    defaultPackage: sample
 info:
     app:
         name: '@info.app.name@'
