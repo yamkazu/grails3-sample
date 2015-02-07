@@ -1,28 +1,22 @@
 # Grails
 
 logs/
+prodDb.h2.db
+prodDb.lock.db
 
 # Gradle
 
 build/
 .gradle/
+.gradletasknamecache
 
 # Eclipse
 
-*.pydevproject
 .project
 .metadata
 bin/**
-tmp/**
-tmp/**/*
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
 .classpath
 .settings/
-.loadpath
 
 # IDEA
 
